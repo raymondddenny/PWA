@@ -2,9 +2,9 @@
 
 An e-commerce app with simple progressing web app.
 
-Credit :
+- Credit :
 [BuildwithAngga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
-Hosting using : 
+- Hosting using : 
 [Firebase](https://firebase.google.com/)
 
 ## Demo App
