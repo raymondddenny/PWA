@@ -1,6 +1,6 @@
 # PWA 
 
-An e-commerce app with simple progressing web app.
+An e-commerce app with simple Progressive web app.
 
 - Credit :
 [BuildwithAngga](https://www.youtube.com/channel/UCrCqB6_uGWECG-Fns1ArhFA)
